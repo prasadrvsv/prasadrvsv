@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a backend software engineer and product-minded builder with 5+ years of experience taking ideas from 0 to 1 and scaling them into reliable, high-impact systems. I specialize in Python and FastAPI, building resilient platforms and production-grade generative AI solutions. I’ve led early product development, worked closely with stakeholders, and shipped features that solve real business problems. An aspiring entrepreneur at heart, I enjoy turning ambiguous problems into clear products, mentoring teams, and building things that create measurable value.
+I’m a **Backend Software Engineer** and **product minded** builder with **5+ years** of experience taking ideas from **0 to 1** and scaling them into **reliable, high-impact systems**. I specialize in **Python and FastAPI**, building **resilient** platforms and **production-grade generative AI solutions**. I’ve **led** early **product development**, worked closely with **stakeholders**, and **shipped features** that solve real business problems. An **aspiring entrepreneur** at heart, I enjoy turning ambiguous problems into clear products, **mentoring teams**, and building things that **create measurable value**.
 
 
 ## 🌐 Socials:
